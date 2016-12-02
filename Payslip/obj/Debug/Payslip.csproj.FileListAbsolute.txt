@@ -1,0 +1,15 @@
+D:\Documents\Edit\Works\Visual Studio\C#\Web\ASP.NET\Payslip\Payslip\bin\Payslip.dll
+D:\Documents\Edit\Works\Visual Studio\C#\Web\ASP.NET\Payslip\Payslip\bin\Payslip.pdb
+D:\Documents\Edit\Works\Visual Studio\C#\Web\ASP.NET\Payslip\Payslip\obj\Debug\Payslip.csprojResolveAssemblyReference.cache
+D:\Documents\Edit\Works\Visual Studio\C#\Web\ASP.NET\Payslip\Payslip\obj\Debug\Payslip.dll
+D:\Documents\Edit\Works\Visual Studio\C#\Web\ASP.NET\Payslip\Payslip\obj\Debug\Payslip.pdb
+C:\Users\Gürsu\Desktop\Payslip\Payslip\obj\Debug\Payslip.csprojResolveAssemblyReference.cache
+C:\Users\Gürsu\Desktop\Payslip\Payslip\obj\Debug\Payslip.dll
+C:\Users\Gürsu\Desktop\Payslip\Payslip\bin\Payslip.dll
+C:\Users\Gürsu\Desktop\Payslip\Payslip\bin\Payslip.pdb
+C:\Users\Gürsu\Desktop\Payslip\Payslip\obj\Debug\Payslip.pdb
+D:\Documents\Works\Visual Studio\C#\Web\ASP.NET\Payslip\Payslip\bin\Payslip.dll
+D:\Documents\Works\Visual Studio\C#\Web\ASP.NET\Payslip\Payslip\bin\Payslip.pdb
+D:\Documents\Works\Visual Studio\C#\Web\ASP.NET\Payslip\Payslip\obj\Debug\Payslip.csprojResolveAssemblyReference.cache
+D:\Documents\Works\Visual Studio\C#\Web\ASP.NET\Payslip\Payslip\obj\Debug\Payslip.dll
+D:\Documents\Works\Visual Studio\C#\Web\ASP.NET\Payslip\Payslip\obj\Debug\Payslip.pdb
